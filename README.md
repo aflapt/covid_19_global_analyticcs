@@ -1,5 +1,12 @@
 # covid_19_global_analytics
 
+
+![Uploading image.png…]()
+
+
+
+
+
 ## covid_19_power bi dashboard:
 
 dataset:https://www.kaggle.com/datasets/imdevskp/corona-virus-report
