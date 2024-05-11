@@ -1,11 +1,6 @@
 # covid_19_global_analytics
 
-
-![Uploading image.png…]()
-
-
-
-
+![image](https://github.com/aflapt/covid_19_global_analyticcs/assets/153365046/08469242-1664-4a47-a4f5-634a10ab2ba5)
 
 ## covid_19_power bi dashboard:
 
