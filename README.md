@@ -1,6 +1,6 @@
 # covid_19_global_analytics
 
-"C:\Users\afla1\Downloads\earth-surrounded-by-coronavirus-microbes.webp"
+
 
 ## covid_19_power bi dashboard:
 
